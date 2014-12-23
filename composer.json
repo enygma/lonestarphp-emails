@@ -1,0 +1,15 @@
+{
+    "name": "dcousineau/lspemail",
+    "require": {
+        "henrikbjorn/stampie": "dev-master",
+        "guzzle/guzzle": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Cousineau",
+            "email": "dcousineau@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

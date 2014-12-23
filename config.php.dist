@@ -1,0 +1,17 @@
+<?php
+
+return [
+    'from' => 'info@lonestarphp.com',
+    'bcc' => 'info@lonestarphp.com',
+    'acceptance' => [
+        'subject' => 'Your Lone Star PHP 2014 Submissions',
+        'template' => file_get_contents('./acceptance.txt'),
+    ],
+    'rejection' => [
+        'subject' => 'Your Lone Star PHP 2014 Submissions',
+        'template' => file_get_contents('./rejection.txt')
+    ],
+    'postmark' => [
+        'token' => 'TOKEN-HERE',
+    ]
+];
