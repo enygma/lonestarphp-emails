@@ -1,8 +1,7 @@
 Hello [[name]],
 
-Thank you for submitting your submission(s) to Lone Star PHP.  This year we 
-received almost triple the submissions from last year.  With all the great 
-submissions came many very difficult choices.
+Thank you for submitting your submission(s) to Lone Star PHP.  This year we
+received over 400 submissions.  With all the great submissions came many very difficult choices.
 
 We are excited to let you know that your following submission(s) were accepted:
 [[sessions]]
@@ -11,32 +10,29 @@ We are excited to let you know that your following submission(s) were accepted:
 With the selected submission(s) above we are able to offer you:
 - Air Travel
 - Hotel Nights (relative to sessions accepted)
-- Speaker’s Dinner
+- Speaker's Dinner
 - Full access to the conference
 
-Other travel considerations will be made on an as-needed basis.
+Other travel considerations will be made on an as-needed basis. A Lone Star PHP organizer
+will be contacting you soon to book you air travel.
 
 === What We Need ===
 If you could provide us with the following information:
-- Departure Airport (or whether you’re driving to or live in Dallas)
-- Photo
-- Twitter
+- Departure Airport (or whether you're driving to or live in Dallas)
+- Make sure your information is up to date in the CFP system, cfp.lonestarphp.com
+- Preferred instant message client and username (this is for coordinating travel booking)
 - Any special dietary needs (more alcohol does not count as "special")
 
-If you wish to make any updates or corrections to the bio you sent with your 
+If you wish to make any updates or corrections to the bio you sent with your
 submission, please feel free to send that as well.
 
 === Finalize Acceptance ===
-We ask that you please reply to this email no later than Friday, March 22th, and 
+We ask that you please reply to this email no later than Friday, January 9th, and
 let us know if you have accepted this speaking opportunity.
 
-Once you have accepted we will send you an invite to our Speakers Google Group 
-where you’ll receive speaker related announcements.  We encourage you to ask 
-questions!
+Also, feel free to announce your acceptance on twitter!  Our hash tag is #lsp15
 
-Also, feel free to announce your acceptance on twitter!  Our hash tag is #lsp13
-
-We can’t wait to hear back from you and see you in Dallas!
+We can't wait to hear back from you and see you in Dallas!
 
 -- Lone Star PHP Team
 http://lonestarphp.com

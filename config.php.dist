@@ -4,11 +4,11 @@ return [
     'from' => 'info@lonestarphp.com',
     'bcc' => 'info@lonestarphp.com',
     'acceptance' => [
-        'subject' => 'Your Lone Star PHP 2014 Submissions',
+        'subject' => 'Your Lone Star PHP 2015 Submissions',
         'template' => file_get_contents('./acceptance.txt'),
     ],
     'rejection' => [
-        'subject' => 'Your Lone Star PHP 2014 Submissions',
+        'subject' => 'Your Lone Star PHP 2015 Submissions',
         'template' => file_get_contents('./rejection.txt')
     ],
     'postmark' => [
