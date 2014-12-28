@@ -1,7 +1,8 @@
 Hello [[name]],
 
-Thank you for submitting your submission(s) to Lone Star PHP.  This year we
-received over 400 submissions.  With all the great submissions came many very difficult choices.
+Thank you for submitting your submission(s) to Lone Star PHP. This year we
+received over 400 submissions. With all the great submissions came many very
+difficult choices.
 
 We are excited to let you know that your following submission(s) were accepted:
 [[sessions]]
@@ -13,8 +14,8 @@ With the selected submission(s) above we are able to offer you:
 - Speaker's Dinner
 - Full access to the conference
 
-Other travel considerations will be made on an as-needed basis. A Lone Star PHP organizer
-will be contacting you soon to book you air travel.
+Other travel considerations will be made on an as-needed basis. A Lone Star PHP
+organizer will be contacting you soon to book you air travel.
 
 === What We Need ===
 If you could provide us with the following information:
@@ -30,7 +31,7 @@ submission, please feel free to send that as well.
 We ask that you please reply to this email no later than Friday, January 9th, and
 let us know if you have accepted this speaking opportunity.
 
-Also, feel free to announce your acceptance on twitter!  Our hash tag is #lsp15
+Also, feel free to announce your acceptance on twitter! Our hash tag is #lsp15
 
 We can't wait to hear back from you and see you in Dallas!
 
