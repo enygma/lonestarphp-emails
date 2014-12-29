@@ -1,7 +1,8 @@
 Hello [[name]],
 
-Thank you for submitting your submission(s) to Lone Star PHP.  This year we
-received over 400 submissions.  With all the great submissions came many very difficult choices.
+Thank you for submitting your session(s) to Lone Star PHP. This year we received
+over 400 submissions. With all the great submissions came many very difficult
+choices.
 
 We are excited to let you know that your following submission(s) were accepted:
 [[sessions]]
