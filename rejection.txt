@@ -1,9 +1,8 @@
 Hello [[name]],
 
-Thank you for submitting your ideas to Lone Star PHP!  This year we
-received over 400 submissions.  With all the great submissions
-came many very difficult choices. Unfortunately, the sessions you submitted
-were not accepted this year.
+Thank you for submitting your ideas to Lone Star PHP! This year we received over
+400 submissions. With all the great submissions came many very difficult
+choices. Unfortunately, the sessions you submitted were not accepted this year.
 
 There were so many great submissions but with limited speaker slots, there were
 many we just couldn't include. Coming up with a conference schedule is never
@@ -12,8 +11,8 @@ and challenging to those who will attend.
 
 We encourage you to continue submitting your talks and ideas to other
 conferences and to stay involved in the PHP community. We would still love for
-you to attend Lone Star PHP this year, though. Early Bird tickets are still on sale,
-so be sure to pick up your passes at this limited-time discounted rate!
+you to attend Lone Star PHP this year, though. Early Bird tickets are still on
+sale, so be sure to pick up your passes at this limited-time discounted rate!
 
 -- Lone Star PHP Team
 http://lonestarphp.com
