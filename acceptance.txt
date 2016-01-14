@@ -15,7 +15,7 @@ With the selected submission(s) above we are able to offer you:
 - Full access to the conference
 
 Other travel considerations will be made on an as-needed basis. A Lone Star PHP
-organizer will be contacting you soon to book you air travel.
+organizer will be contacting you soon to book your air travel.
 
 === What We Need ===
 If you could provide us with the following information:
@@ -31,7 +31,7 @@ submission, please feel free to send that as well.
 We ask that you please reply to this email no later than Friday, January 22nd, and
 let us know if you have accepted this speaking opportunity.
 
-Also, feel free to announce your acceptance on twitter! Our hash tag is #lsp16
+Also, feel free to announce your acceptance on Twitter! Our hash tag is #lsp16
 
 We can't wait to hear back from you and see you in Dallas!
 
